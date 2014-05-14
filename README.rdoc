@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first ralis application that simulates a basic blog application.
 
-Things you may want to cover:
+The functionalities provided are:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+1> Posts page where user can create posts.
+2> Comments page where user can write comments for posts.
+3> Usage of jquery and ajax to make the user experience interactive.
+4> Authentication on creation of new posts by different user.
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
